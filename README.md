@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<div>
 
 ### Hi there, this is Mohammad <img src="./assets/gif/developer.gif" width="40" height="auto"/>
 
@@ -12,8 +12,8 @@
 ![plot](./assets/gif/programming_fight.gif)
 
 </div>
-
-<h4 style="display: flex;"> <img src="./assets/gif/me.gif" style="margin-right: 5px;" width="20" height="auto" style="vertical-align: center"/> A little more about me<span>...</span><a href="https://www.linkedin.com/in/mamadfar/" style="margin-left: auto;"><img src="./assets/image/linkedin.svg" width="20" height="auto"/></a></h4>
+<a href="https://www.linkedin.com/in/mamadfar/"><img src="./assets/image/linkedin.svg" width="20" height="auto"/></a>
+<h4> <img src="./assets/gif/me.gif" style="margin-right: 5px;" width="20" height="auto" style="vertical-align: center"/> A little more about me<span>...</span></h4>
 
 ```ts
 const ME: Omit<IMohammad, "badHabit"> = {
