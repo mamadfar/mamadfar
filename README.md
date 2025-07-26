@@ -2,7 +2,7 @@
 
 ### Hi there, this is Mohammad <img src="./assets/gif/developer.gif" width="40" height="auto"/>
 
-- 🌱 I’m currently learning and improving these knowledges: <u>**LangChain**</u>, <u>**AI**</u> , <u>**Next 15**</u>, <u>**Node**</u>, and <u>**Python**</u>
+- 🌱 I’m currently learning and improving these knowledges: <u>**LangChain**</u>, <u>**AI**</u> , <u>**Next**</u>, <u>**Node**</u>, and <u>**Python**</u>
 
 ![plot](./assets/gif/death_by_computer.gif)
 
@@ -22,22 +22,22 @@ const ME: Omit<IMohammad, "badHabit"> = {
     askMeAbout: ["web dev", "tech", "game", "anime"],
     technologies: {
         frontEnd: {
-            js: ["React","Next", "Redux", "Angular", "SvelteKit"],
+            js: ["React","Next", "Redux", "SvelteKit"],
             ui: ["Tailwind", "Ant Design", "Bootstrap", "SCSS", "ShadCn", "DaisyUI"]
         },
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "Python"],
         },
         familiar: {
             mobileApp: {
                 js: ["React Native"]
             },
-            frontEnd: ["React", "Next", "Angular", "SvelteKit"]
+            frontEnd: ["Angular"]
             devOps: ["AWS", "Docker🐳", "Azure"],
         }
     },
     architecture: ["Single page applications"],
-    currentFocus: "AI & Python",
+    currentFocus: "AI & Python | Node",
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
 ```
