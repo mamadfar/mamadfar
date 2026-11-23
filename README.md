@@ -42,14 +42,14 @@ const ME: Omit<IMohammad, "badHabit"> = {
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,svelte,tailwind,ts,js,nodejs,express,sequelize,prisma,python,fastapi,mysql,postgresql,git,langchain,claude,shadcn" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,svelte,tailwind,ts,js,nodejs,express,sequelize,prisma,python,fastapi,mysql,postgresql,git,java,spring" />
 </p>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mamadfar&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=mamadfar&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mamadfar&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mamadfar&layout=compact&theme=github_dark&hide_border=true" />
 
 ## 🐍 Contribution
 
